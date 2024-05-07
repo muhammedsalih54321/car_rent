@@ -38,8 +38,8 @@ class _WelcomescreenState extends State<Welcomescreen> {
                  
                  ),),
                  Positioned(
-                 right: -200,
-                 top: -15,
+                 right: -193.w,
+                 top: -15.h,
                   child: Image.asset('assets/images/img1.png'))
              ],
            ),
