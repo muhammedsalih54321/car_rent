@@ -149,7 +149,7 @@ class _DetailsscreenState extends State<Detailsscreen> {
                 topLeft: Radius.circular(40.r),
                 topRight: Radius.circular(40.r),
               ),
-              color: Color.fromARGB(255, 23, 27, 30),
+              color:Color(0xFF232325),
             ),
             child: Column(
               children: [

@@ -1,7 +1,7 @@
 import 'package:car_rent_app/screens/homepage.dart';
-import 'package:flutter/cupertino.dart';
+
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
+
 
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -17,7 +17,7 @@ class _WelcomescreenState extends State<Welcomescreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        backgroundColor: Color.fromARGB(255, 23, 27, 30),
+        backgroundColor: Color(0xFF232325),
         body: SafeArea(
             child: Column(
           children: [

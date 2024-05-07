@@ -295,7 +295,7 @@ class _HomepageState extends State<Homepage> {
             child: Container(
               decoration: BoxDecoration(
                 borderRadius: BorderRadiusDirectional.circular(20.r),
-                color: Color.fromARGB(255, 23, 27, 30),
+                color:Color(0xFF232325),
               ),
               child: Column(
                 children: [
